@@ -36,7 +36,8 @@
 ### These aren't enabled by default but just message one of the mods on the discord so we can add the permissions
 > ### **/afk**
 > - Puts your character in an invulnerable state preventing mobs from killing you while you're away from the keyboard.
-> - Moving takes you out of this state
+> - type **/afk** to get yourself out of this state
+> - *hunger is still affected so if you're afk too long it may be best practice to log off*
 > ### **/echest**
 > - Accesses your Ender Chest storage
 > ### **/home**
