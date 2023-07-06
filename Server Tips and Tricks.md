@@ -1,6 +1,6 @@
 # Server Info and Tips
-## URL: **AVAILABLE ON INVITE ONLY DISCORD SERVER**
-## Dynamic Map: **AVAILABLE ON INVITE ONLY DISCORD SERVER**
+## URL: **untouchable.forgeserv.net**
+## Dynamic Map: **https://untouchable.forgeserv.net/**
 - ^ This is a map of the entire explored area, online player locations, and warp locations.
 ### We have added some quality of life commands and functionality to the server. You are able to use these as often and as freely as you like.<br>
 #
