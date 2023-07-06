@@ -1,8 +1,17 @@
 # Prism Launcher Setup Guide:
 
-### I made this folder so hopefully you can be using a better launcher and not have to deal with all the struggles of installing everything yourself.
+### I made this Guide so hopefully you can be using a better launcher and not have to deal with all the struggles of installing everything yourself.
 
-### I placed all the necessary files to get you going without hopefully any hangups :) 
+## **Download These First**
+>### **Prism Launcher** --> https://prismlauncher.org/download/
+> - You'll need to select the appropriate version for your system.
+>   - **installer** installs it locally / **portable** keeps everything in one folder (you can put it on a thumb drive and use it on multiple devices)
+>   - for most cases it's easier to just use the installer unless you play minecraft on multiple computers
+> ### **OpenJDK17** --> https://adoptium.net/
+> - Download the latest LTS Release here
+> ### **ModPack File** --> https://drive.google.com/file/d/1pDI4NPdal9VhIMRXnsbhsgEc9bIGcesK/view?usp=sharing
+> - This contains Minecraft 1.20.1 and some of the mods / resources described below
+### 
 
 
 ### **Follow These Steps**
