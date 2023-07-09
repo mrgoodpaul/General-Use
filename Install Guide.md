@@ -27,7 +27,7 @@
 	--this is important to be able to play online--
 >4. **Within the Prism Launcher, click "Add Instance"** *(top left)*
 >5. **From here you're going to want to click "Import from zip"** *(second option on the left side)*   
->6. **Select the "1.20.1" zip file located in this folder**  
+>6. **Select the "UntouchableMC " zip file located in this folder**  
 >7. **After this is complete the instance should be available on the main screen in Prism Launcher and from there you should be able to run it.** 
 
 
