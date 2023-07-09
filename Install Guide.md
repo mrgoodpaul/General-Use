@@ -67,7 +67,7 @@ t
 > - When you're sending items via shift-leftclick you can now hold both buttons to send all stacks you're hovering over  
 > - Hold alt-leftclick to drop items quickly.  
 > - When you're in the creative inventory and hover over the tab icons you can scroll through all the creative tabs and pages.  
-> - In your facourite recipe books you can  
+> - In your favourite recipe books you can  
 > - hover over the recipe grid to scroll through the pages.  
 > - hover over the recipe group tabs to scroll through them.  
 > - Sort inventories by clicking with your mouse wheel (you can also define an own keybinding)  
