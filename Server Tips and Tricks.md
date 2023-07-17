@@ -75,6 +75,8 @@
 > ### **TradingCottage**
 > - Another village with more villager trade options
 >
+> ### **UnderThePyramid**
+>  - Pretty much self explanatory but this places you underneath the big pyramid where its dark enough for mobs to spawn
  #
  #
  ### Huge thanks to OitsJustJose for hosting this server and helping me out with all of the plugins and commands. I could not do this without him :)
