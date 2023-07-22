@@ -79,3 +79,5 @@ t
 > - Let your slots be automagically refilled from your inventory!  
 > - Pick the matching tools for blocks by either sneaking while picking the block or by holding a tool. (this is configurable)  
 > - Right-click trades or recipes to directly apply the crafting. When holding shift it will craft/trade a full stack  
+>
+> ### *mouse wheelie info was taken directly from their site. Must give credit where credit is due* -->https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie
